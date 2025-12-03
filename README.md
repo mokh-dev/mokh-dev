@@ -8,6 +8,7 @@ Hi, I'm a <b>Unity Game Developer</b>, <b>Programmer</b>, and <b>Artist</b> from
 <h2>Acheivements:</h2>
 <ul>
   <li>1st place prize at the FTC Jam</li>
+  <li>Mentored at the GameBox Hackathon</li>
   <li>20+ Unity Games</li>
   <li>10+ Game Jams</li>
 </ul>
