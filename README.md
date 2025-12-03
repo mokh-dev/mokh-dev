@@ -5,7 +5,6 @@
 
 Hi, I'm a <b>Unity Game Developer</b>, <b>Programmer</b>, and <b>Artist</b> from <i>Riyadh, Saudi Arabia</i>. I was born in 2007 and am currently studying at <b>King Saud University</b>.<br><br> I absolutely <i>love</i> all things <b>Game Dev</b> and dream to have a career in it someday. In the meantime I make games <i>(usually for game jams)</i> and draw art <i>(usually for those games)</i>. I write all the code and hand-draw all the art for my games. I love <b>learning</b>, going in the <i>deep end</i>, and pulling game jam all-nighters. Hopefully you find my work at the very least mildly amusing.
 
-<br>
 <h2>Acheivements:</h2>
 <ul>
   <li>1st place prize at the FTC Jam</li>
@@ -13,7 +12,6 @@ Hi, I'm a <b>Unity Game Developer</b>, <b>Programmer</b>, and <b>Artist</b> from
   <li>10+ Game Jams</li>
 </ul>
 
-<br>
 <h2>Experience:</h2>
 <p align="left">
 <img src="https://cdn.simpleicons.org/unity/ffffff" height="50px"/>
@@ -22,7 +20,6 @@ Hi, I'm a <b>Unity Game Developer</b>, <b>Programmer</b>, and <b>Artist</b> from
 <img src="https://www.svgrepo.com/show/374016/python.svg" height="50px"/>
 </p>
 
-<br>
 <h2>Links and Socials:</h2>
 <p>
   
