@@ -13,14 +13,6 @@ Hi, I'm a <b>Unity Game Developer</b>, <b>Programmer</b>, and <b>Artist</b> from
   <li>15+ Game Jams</li>
 </ul>
 
-<h2>Experience:</h2>
-<p align="left">
-<img src="https://cdn.simpleicons.org/unity/ffffff" height="50px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/384px-Logo_C_sharp.svg.png?20221121173824" height="50px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/112px-Logo_Aseprite.svg.png?20231108191228" height="50px"/>
-<img src="https://www.svgrepo.com/show/374016/python.svg" height="50px"/>
-</p>
-
 <h2>Links and Socials:</h2>
 <p>
   
@@ -31,7 +23,5 @@ Hi, I'm a <b>Unity Game Developer</b>, <b>Programmer</b>, and <b>Artist</b> from
   <a href="https://www.linkedin.com/in/mohammedalkhayat/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png?20210220164014" height="40px"/></a>
 
   <a href="mailto:mns.alkhayat@gmail.com"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" height="40px"/></a>
-
-  <a href="https://discordapp.com/users/1003017556988268574"><img align="left" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/106px-Discord_Logo_sans_texte.svg.png?20210527094128" height="55px"/></a>
 
 </p>
